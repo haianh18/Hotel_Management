@@ -1,0 +1,16 @@
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\bin\Debug\net8.0\Services.deps.json
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\bin\Debug\net8.0\Services.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\bin\Debug\net8.0\Services.pdb
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\refint\Services.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.pdb
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\ref\Services.dll
+D:\FPT\PRN212\Assignment_2\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\Services\obj\Debug\net8.0\Services.sourcelink.json

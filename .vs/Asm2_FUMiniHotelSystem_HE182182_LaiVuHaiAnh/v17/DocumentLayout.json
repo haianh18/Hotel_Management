@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E250F10F-6901-4E06-8ACA-67608D8A4D35}|Services\\Services.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E250F10F-6901-4E06-8ACA-67608D8A4D35}|Services\\Services.csproj|solutionrelative:services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E250F10F-6901-4E06-8ACA-67608D8A4D35}|Services\\Services.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E250F10F-6901-4E06-8ACA-67608D8A4D35}|Services\\Services.csproj|solutionrelative:services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70746ED-DC62-4989-BD01-97019B96FD4A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\managebookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\managebookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\customerdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\customerdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\customerdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\customerdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\managecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\roomdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\roomdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\roomdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\roomdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\businessobjects\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C70529C-17A0-4E13-B233-20F4EF01F1FE}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C74925-071E-4E3B-8D84-6BA8E1E6BC6E}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\bookingdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\bookingdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|d:\\fpt\\prn212\\assignment_2\\asm2_fuminihotelsystem_he182182_laivuhaianh\\laivuhaianhwpf\\bookingdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375453A2-9EED-468A-99DE-4BB45DAAD134}|LaiVuHaiAnhWPF\\LaiVuHaiAnhWPF.csproj|solutionrelative:laivuhaianhwpf\\bookingdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingReservationRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\BookingReservationRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingReservationRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:13:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingReservationService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Services\\BookingReservationService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingReservationService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Services\\BookingReservationService.cs",
+              "RelativeToolTip": "Services\\BookingReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:13:47.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T15:31:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:28:55.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageBookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ManageBookingWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageBookingWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ManageBookingWindow.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAlwI4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:55:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageBookingWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageBookingWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ManageBookingWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageBookingWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ManageBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T14:48:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogInWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\LogInWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\LogInWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\LogInWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\LogInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T13:33:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\BookingWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\BookingWindow.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAIAwwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:05:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDetailService.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Services\\BookingDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingDetailService.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Services\\BookingDetailService.cs",
+              "RelativeToolTip": "Services\\BookingDetailService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:03:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAIAwwGYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:26:51.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Customer.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:25:46.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:25:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RoomType.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:58:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowFMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:35.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomInformationDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\RoomInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomInformationDAO.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\RoomInformationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomInformationDAO.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:23.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowHwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:09.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA9wJkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:03:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\RoomInformation.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\RoomInformation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:49:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:32:32.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\Status.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\Status.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:29:24.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingReservation.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\BusinessObjects\\Models\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BookingReservation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:19:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoomDetail.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\RoomDetail.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\RoomDetail.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\RoomDetail.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\RoomDetail.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:41:49.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomDetail.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\RoomDetail.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\RoomDetail.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\RoomDetail.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\RoomDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T14:39:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ReportWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ReportWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwEgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:37:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ReportWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ReportWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T14:37:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageCustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:29:05.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T14:28:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogInWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\LogInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\LogInWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\LogInWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\LogInWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:27:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:26:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\CustomerWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T14:25:57.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerDetail.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerDetail.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\CustomerDetail.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerDetail.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\CustomerDetail.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwFwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:55:54.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDetail.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerDetail.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\CustomerDetail.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\CustomerDetail.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\CustomerDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:55:45.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\BookingWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:53:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookingDetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\BookingDetailWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingDetailWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\BookingDetailWindow.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwEEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:48:44.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingDetailWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingDetailWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\BookingDetailWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\BookingDetailWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\BookingDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:48:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:46:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\AdminWindow.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T13:46:06.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "LaiVuHaiAnhWPF\\appsettings.json",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\LaiVuHaiAnhWPF\\appsettings.json",
+              "RelativeToolTip": "LaiVuHaiAnhWPF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T03:45:09.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingDetailRepository.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Assignment_2\\Asm2_FUMiniHotelSystem_HE182182_LaiVuHaiAnh\\Repositories\\BookingDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingDetailRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:39:42.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
